@@ -2,7 +2,7 @@
 N-Gram-based language model, dependency parser, authorship attribution with Keras
 
 This project, which I worked on in June and July 2017, provided an invaluable introduction into many crucial concepts in NLP and Python. 
-Before this point, I had had three years of programming experience in Java, Computational Linguistic theory, and university-level math courses. This project was orininally submitted in the course *Statistical Natural Language Processing*, taught by Dr. Cagri Coltekin
+Before this point, I had had three years of programming experience in Java, Computational Linguistic theory, and university-level math courses. This project was originally submitted in the course *Statistical Natural Language Processing*, taught by Dr. Cagri Coltekin
  
  Much of the theory on which the implementations were based can be found in the book *Speech and Language Processing*, by Daniel Jurafsky and James H. Martin
  
