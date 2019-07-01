@@ -26,4 +26,4 @@ Before this point, I had had three years of programming experience in Java, Comp
 
 3. In `deep_tweets_embedding.py`, I participate in Germeval Task 2017: A Shared Task on Aspect-based Sentiment in Social Media Customer Feedback. It focuses on labelling customer tweets regarding Deutsche Bahn, the national German train operator
 
- After data extraction and cleanup, I prepare an embedding with a Gated Recurrent Unit in Keras running on Tensorflow. The network makes use of softmax activation and the Adam optimizer to achieve 86% accuracy - Not bad for my first attempt at a chanllenging shared task in twitter sentiment analysis!
+ After data extraction and cleanup, I prepare an embedding with a Gated Recurrent Unit in Keras running on Tensorflow. The network makes use of softmax activation and the Adam optimizer to achieve 86% accuracy - Not bad for my first attempt at a challenging shared task in twitter sentiment analysis!
